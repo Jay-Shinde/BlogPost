@@ -1,3 +1,7 @@
+##Preview:
+![blog](https://github.com/Jay-Shinde/BlogPost/assets/90144181/ce0d5b2a-937f-4ea2-af9d-72166e7a49b4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
